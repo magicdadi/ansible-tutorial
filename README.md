@@ -1,4 +1,3 @@
 # ansible-tutorial
 
-Hello world this should finally work.
-
+My journey of figuring out how Ansible works.
